@@ -35,3 +35,9 @@ Clone the repo:
 
 git clone https://github.com/kaushalkumar94/opencv-cropping-tool.git
 cd opencv-cropping-tool
+
+
+## Author
+
+[**Kaushal Kumar**]
+
