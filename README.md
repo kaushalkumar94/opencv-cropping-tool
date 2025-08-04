@@ -30,14 +30,16 @@ This project replicates that simplicity using Python and OpenCV. A lightweight t
 ## Setup
 
 Clone the repo:
-
-```bash
+ 
 
 git clone https://github.com/kaushalkumar94/opencv-cropping-tool.git
 cd opencv-cropping-tool
+ 
 
+---
 
 ## Author
 
-[**Kaushal Kumar**]
+- **Kaushal Kumar**
+
 
